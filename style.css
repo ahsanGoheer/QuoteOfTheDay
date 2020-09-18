@@ -1,0 +1,76 @@
+body {
+    background-color: #F4F1F1;
+    padding: 0;
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+}
+div#Container {
+    width: 1024px;
+    margin: 100px auto;
+    border: 2px solid darkmagenta;
+    padding: 40px;
+}
+#Profile h5 {
+    font-size: 18px;
+    padding: 34px;
+}
+div#QuoteOfTheDay {
+    font-weight: bold;
+    font-size: 25px;
+    display: inline-block;
+    vertical-align: baseline;
+    width: 300px;
+}
+div#Name {
+    width: 720px;
+    display: inline-block;
+    vertical-align: baseline;
+    text-align: right;
+    font-size: 26px;
+    font-weight: bold;
+}
+#Quote h1 {
+    font-size: 100px;
+    padding: 10px;
+    margin: 0px;
+    line-height: 100px;
+    width: 600px;
+}
+#QuoteBy h4 {
+    font-size: 23px;
+    line-height: 50px;
+}
+div#Skills {
+    width: 266px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#Skills h6 {
+    font-size: 19px;
+    margin-bottom: 0;
+}
+
+#Skills ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+    line-height: 27px;
+}
+
+div#Profile {
+    width: 550px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#ProfilePicture img {
+    width: 100%;
+}
+
+div#ProfilePicture {
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
